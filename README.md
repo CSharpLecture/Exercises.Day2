@@ -24,6 +24,7 @@ Write a guess-a-number game. The .NET random generator is available by generatin
 Approximate the integral of a function by taking the sum of the areas of rectangles, i.e. compute
 
 ![equation](http://www.sciweavers.org/tex2img.php?eq=F%3D%20%5Cint_a%5Eb%20f%28x%29%20dx%20%5Capprox%20%5CDelta%20x%20%5Csum_i%20f%28x_i%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+F=&int;<sub>a</sub><sup>b</sup>f(x)dx&approx;&Delta;x&Sigma;<sub>i</sub>f(x<sub>i</sub>).
 
 Pack everything in a method called `Integrate`. This method should take 4 input parameters:
 
