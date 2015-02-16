@@ -30,7 +30,7 @@ Pack everything in a method called `Integrate`. This method should take 4 input 
 * A `double`, which represents the start of the integral a.
 * A `double`, which represents the end of the integral b.
 * An `int`, which represents the number of rectangles N.
-* A `Func&lt;double, double&gt;`, which represents the function f.
+* A `Func<double, double>`, which represents the function f.
 
 Use your method to show that the value of the integral is becoming more precise as N increases.
 
